@@ -3,6 +3,7 @@
     font-family: sans-serif;
     font-size: 18px;
     color: lightseagreen;
+    margin: 10px;
 }
 
 p   {
@@ -21,7 +22,7 @@ h1{
 
 img {
     height: auto;
-    width: 600px;
+    width: 750px;
     margin-bottom: 25px;
 
 }
