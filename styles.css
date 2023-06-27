@@ -1,24 +1,41 @@
 * {
     background-color: black;
+    font-family: sans-serif;
+    font-size: 18px;
+    color: lightseagreen;
+}
+
+p   {
+    margin-top: 50px;
+    text-align: center;
+    color: white;
 }
 
 h1{
     text-align: center;
     font-size: 60px;
     font-family: "Brush Script MT", sans-serif;
-    color: rgb(15, 95, 207);
+    color: lightseagreen;
     text-decoration: underline;
 }
 
 img {
     height: auto;
-    width: 800px;
-    align-items: center;
+    width: 600px;
+    margin-bottom: 25px;
+
 }
 
-ul,
-li{
-    color: rgb(15, 95, 207);
-    font-size: 30px;
-    font-family: "Brush Script MT", sans-serif;
+.button-container {
+    margin-right: auto;
+    text-align: center;
+    display: block;
+}
+
+.button {
+    font-size: 24px;
+    font-family: sans-serif;
+    margin: 8px;
+    padding: 10px;
+    background-color: black;
 }

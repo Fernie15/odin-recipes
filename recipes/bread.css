@@ -1,25 +1,30 @@
 *   {
     background-color: black;
-    color: rgb(15, 95, 207);
+    color: lightseagreen;
     font-family: sans-serif;
+    margin: 10px;
 }
 
 h1,
 h2 {
     text-align: center;
+    margin-bottom: 30px;
 }
 
 h2 {
     font-size: 28px;
+    margin-top: 90px;
 }
 
 .description,
 ul,
 ol {
     font-size: 20px;
+    margin-bottom: 40px;
 }
 
 img {
     height: auto;
-    width: 700px;
+    width: 600px;
+    margin-bottom: 70px;
 }

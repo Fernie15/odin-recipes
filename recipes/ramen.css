@@ -1,29 +1,33 @@
 *   {
     background-color: black;
-    color: rgb(15, 95, 207);
+    color: lightseagreen;
     font-family: sans-serif;
+    margin: 10px;
 }
 
 h1 {
     text-align: center;
-    color: rgb(15, 95, 207);
 }
 
 img{
     heght: auto;
-    width: 800px;
+    width: 600px;
 }
 
 h2 {
     font-size: 30px;
     text-align: center;
+    margin-top: 90px;
+    margin-bottom: 20px;;
 }
 
 ul,
 ol {
     font-size: 18px;
+    margin-bottom: 90px;
 }
 
 .description    {
     font-size: 18px;
+    
 }
